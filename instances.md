@@ -1,4 +1,4 @@
-***Class:Dog***
+##***Class:Dog***##
 
 **Object: Comet**
 
