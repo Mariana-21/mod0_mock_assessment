@@ -1,24 +1,24 @@
-Dog
+***Class:Dog***
 
-object: Comet
-
-
-
-Attributes:
-
-lengthOfDogHair "long"
-
-typeOfBreed "Golden Retriever"
-
-male "yes"
-
-colorOfCollar "blue"
-
-weightOfDog "70lbs"
+**Object: Comet**
 
 
 
-Methods:
+**Attributes:**
+
+lengthOfDogHair: "long"
+
+typeOfBreed: "Golden Retriever"
+
+male: "yes"
+
+colorOfCollar: "blue"
+
+weightOfDog: "70lbs"
+
+
+
+**Methods:**
 
 
 ChangeLengthOfDogHair= "short"
@@ -31,9 +31,9 @@ determineIfDogIsOverweight:(use weightOfDog - averageWeightOfDog)
 
 
 
-object: kira
+***Object: Kira***
 
-Attributes:
+**Attributes:**
 
 lengthOfDogHair: "short"
 
@@ -46,7 +46,7 @@ colorOfCollar "pink"
 weightOfDog "50 lbs "
 
 
-Methods:
+**Methods:**
 
 changeColorOfCollar :"white"
 
